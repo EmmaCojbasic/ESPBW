@@ -1,0 +1,26 @@
+names:
+- American_Crow
+- Black_capped_Vireo
+- Black_throated_Blue_Warbler
+- Blue_Jay
+- Blue_headed_Vireo
+- Chipping_Sparrow
+- Common_Raven
+- Common_Yellowthroat
+- European_Goldfinch
+- House_Sparrow
+- House_Wren
+- Northern_Flicker
+- Northern_Waterthrush
+- Red_winged_Blackbird
+- Savannah_Sparrow
+- Song_Sparrow
+- Tree_Swallow
+- White_breasted_Nuthatch
+- White_throated_Sparrow
+- Yellow_Warbler
+nc: 20
+path: c:\Users\Emma\Desktop\SelektovanePticeESP32
+test: Test
+train: Train
+val: Validate
